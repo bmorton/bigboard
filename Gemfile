@@ -42,6 +42,7 @@ gem 'devise', "~> 3.2.2"
 gem 'omniauth', '~> 1.0'
 gem 'omniauth-yammer'
 gem 'yam'
+gem 'simple_token_authentication', '~> 1.5.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
